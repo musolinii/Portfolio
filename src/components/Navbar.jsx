@@ -6,7 +6,7 @@ const Navbar = () =>{
     return(
         <>
             <nav className="mb-20 flex items-center justify-between py-6">
-                <a href="/home">
+                <a href="https://portfolio-orcin-pi-50.vercel.app/">
 
                 <div className="flex flex-shrink-0 items-center">
                     <img src={logo} alt="" className="mx-2 w-20 rounded-full"/>
